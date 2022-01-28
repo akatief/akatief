@@ -8,4 +8,4 @@ Some fun facts about me:
 - I'm also a Double Degree Erasmus student, Data Science path at EURECOM, Sophia Antipolis 🌆
 - In my spare time I like to photograph people and places around me 📸
 - I'm a fan of all the crazy stuff people invent using Deep Learning and Machine Learning 💻
-- More recently I grew interested in Quantum Computing ⚛
+- More recently I started learning Quantum Computing ⚛
